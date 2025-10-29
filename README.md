@@ -1,2 +1,2 @@
 # QuizApp_Django
-Học tập lập trình các công nghệ hiện đại
+Môn: các công nghệ lập trình hiện đại
